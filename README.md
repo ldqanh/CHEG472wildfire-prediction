@@ -1,8 +1,8 @@
 This project implements a machine learning system to predict wildfire occurrence, fire size, fire duration, and suppression costs. It includes both classification and regression models, which were trained on a prepared dataset with key environmental and regional factors.
 Project Files
-
   •	best_classification_model.pkl: The best-performing classification model, saved for predicting wildfire occurrence.
   •	best_regression_model.pkl: The best-performing regression model, saved for predicting fire size, duration, and suppression cost.
+  
   •	label_encoder.pkl: (Not directly relevant in this script but often useful if categorical labels were encoded for the dataset).
   •	dataset.csv: Input dataset (replace with the actual dataset name) containing historical data on fire incidents and environmental factors.
 Project Workflow
